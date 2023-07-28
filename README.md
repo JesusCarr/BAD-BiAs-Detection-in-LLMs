@@ -1,3 +1,4 @@
+	[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bad-bias-detection-for-large-language-models/bias-detection-on-icat-llm-bias)](https://paperswithcode.com/sota/bias-detection-on-icat-llm-bias?p=bad-bias-detection-for-large-language-models)
 # BAD-BiAs-Detection-in-LLMs
 BAD: BiAs Detection for Large Language Models in the context of candidate screening (EECS 692)
 
